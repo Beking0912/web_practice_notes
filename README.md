@@ -60,6 +60,8 @@
 
 [HTML_H5语义化标签](https://github.com/Beking0912/react_practive_notes/wiki/HTML_H5%E8%AF%AD%E4%B9%89%E5%8C%96%E6%A0%87%E7%AD%BE)
 
+[HTTP_Ajax（get post）](https://github.com/Beking0912/react_practive_notes/wiki/HTTP_Ajax%EF%BC%88get-post%EF%BC%89)
+
 # JavaScript类
 [JavaScript_关于原型链(幕课网截图～)](https://github.com/Beking0912/react_practive_notes/wiki/JavaScript_%E5%85%B3%E4%BA%8E%E5%8E%9F%E5%9E%8B%E9%93%BE(%E5%B9%95%E8%AF%BE%E7%BD%91%E6%88%AA%E5%9B%BE%EF%BD%9E))
 
