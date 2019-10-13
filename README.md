@@ -75,10 +75,21 @@
 
 [JavaScript_简单类型 String](https://github.com/Beking0912/react_practive_notes/wiki/JavaScript_%E7%AE%80%E5%8D%95%E7%B1%BB%E5%9E%8B-----String)
 
-# React类
-[react_如何实现列表搜索](https://github.com/Beking0912/react_practive_notes/wiki/react_%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%88%97%E8%A1%A8%E6%90%9C%E7%B4%A0)
+[JavaScript_内置对象](https://github.com/Beking0912/web_practice_notes/wiki/JavaScript_%E5%86%85%E7%BD%AE%E5%AF%B9%E8%B1%A1)
 
-[react_解析map实现下拉框](https://github.com/Beking0912/react_practive_notes/wiki/react_%E8%A7%A3%E6%9E%90map%E5%AE%9E%E7%8E%B0%E4%B8%8B%E6%8B%89%E6%A1%86)
+[JavaScript_基本数据类型和引用数据类型](https://github.com/Beking0912/web_practice_notes/wiki/JavaScript_%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
+
+[JavaScript_实现千位分隔符](https://github.com/Beking0912/web_practice_notes/wiki/JavaScript_%E5%AE%9E%E7%8E%B0%E5%8D%83%E4%BD%8D%E5%88%86%E9%9A%94%E7%AC%A6)
+
+[JavaScript_防抖(Debounce) & 节流(Throttle)](https://github.com/Beking0912/web_practice_notes/wiki/JavaScript_%E9%98%B2%E6%8A%96(Debounce)-&-%E8%8A%82%E6%B5%81(Throttle))
+
+# HTTP类
+[HTTP_Ajax（get post）](https://github.com/Beking0912/web_practice_notes/wiki/HTTP_Ajax%EF%BC%88get-post%EF%BC%89)
+
+# React类
+[React_如何实现列表搜索](https://github.com/Beking0912/react_practive_notes/wiki/react_%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%88%97%E8%A1%A8%E6%90%9C%E7%B4%A0)
+
+[React_解析map实现下拉框](https://github.com/Beking0912/react_practive_notes/wiki/react_%E8%A7%A3%E6%9E%90map%E5%AE%9E%E7%8E%B0%E4%B8%8B%E6%8B%89%E6%A1%86)
 
 [React_diff算法](https://github.com/Beking0912/react_practive_notes/wiki/React_diff%E7%AE%97%E6%B3%95)
 
@@ -92,3 +103,22 @@
 [常见问题_CSS](https://github.com/Beking0912/react_practive_notes/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98_CSS)
 
 [常见问题_HTML](https://github.com/Beking0912/react_practive_notes/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98_HTML)
+
+[常见问题_JavaScript](https://github.com/Beking0912/web_practice_notes/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98_JavaScript)
+
+# 手撕代码类
+[手撕代码_函数节流(throttle)](https://github.com/Beking0912/web_practice_notes/wiki/%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81_%E5%87%BD%E6%95%B0%E8%8A%82%E6%B5%81(throttle))
+
+[手撕代码_函数节流(更多实现版本)](https://github.com/Beking0912/web_practice_notes/wiki/%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81_%E5%87%BD%E6%95%B0%E8%8A%82%E6%B5%81(%E6%9B%B4%E5%A4%9A%E5%AE%9E%E7%8E%B0%E7%89%88%E6%9C%AC))
+
+[手撕代码_函数防抖(debounce)](https://github.com/Beking0912/web_practice_notes/wiki/%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81_%E5%87%BD%E6%95%B0%E9%98%B2%E6%8A%96(debounce))
+
+[手撕代码_函数防抖(更多实现版本)](https://github.com/Beking0912/web_practice_notes/wiki/%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81_%E5%87%BD%E6%95%B0%E9%98%B2%E6%8A%96(%E6%9B%B4%E5%A4%9A%E5%AE%9E%E7%8E%B0%E7%89%88%E6%9C%AC))
+
+[手撕代码_手写 promise](https://github.com/Beking0912/web_practice_notes/wiki/%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81_%E6%89%8B%E5%86%99-promise)
+
+[手撕代码_数组乱序](https://github.com/Beking0912/web_practice_notes/wiki/%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81_%E6%95%B0%E7%BB%84%E4%B9%B1%E5%BA%8F)
+
+[手撕代码_数组降重](https://github.com/Beking0912/web_practice_notes/wiki/%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81_%E6%95%B0%E7%BB%84%E9%99%8D%E9%87%8D)
+
+[手撕代码_能否模拟实现JS的bind方法](https://github.com/Beking0912/web_practice_notes/wiki/%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81_%E8%83%BD%E5%90%A6%E6%A8%A1%E6%8B%9F%E5%AE%9E%E7%8E%B0JS%E7%9A%84bind%E6%96%B9%E6%B3%95)
