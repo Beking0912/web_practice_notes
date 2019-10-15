@@ -3,7 +3,7 @@
 
 
 # CSS类
-[css_如何实现div不换行](https://github.com/Beking0912/react_practive_notes/wiki/css_%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0div%E4%B8%8D%E6%8D%A2%E8%A1%8C)
+[CSS_如何实现div不换行](https://github.com/Beking0912/react_practive_notes/wiki/css_%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0div%E4%B8%8D%E6%8D%A2%E8%A1%8C)
 
 [CSS_background 的常见背景属性](https://github.com/Beking0912/react_practive_notes/wiki/CSS_background-%E7%9A%84%E5%B8%B8%E8%A7%81%E8%83%8C%E6%99%AF%E5%B1%9E%E6%80%A7)
 
@@ -109,6 +109,8 @@
 [常见问题_HTML](https://github.com/Beking0912/react_practive_notes/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98_HTML)
 
 [常见问题_JavaScript](https://github.com/Beking0912/web_practice_notes/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98_JavaScript)
+
+[常见问题_HTTP](https://github.com/Beking0912/web_practice_notes/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98_HTTP)
 
 # 手撕代码类
 [手撕代码_函数节流(throttle)](https://github.com/Beking0912/web_practice_notes/wiki/%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81_%E5%87%BD%E6%95%B0%E8%8A%82%E6%B5%81(throttle))
