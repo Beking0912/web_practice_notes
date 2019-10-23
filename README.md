@@ -103,6 +103,8 @@
 
 [React_虚拟DOM](https://github.com/Beking0912/react_practive_notes/wiki/React_%E8%99%9A%E6%8B%9FDOM)
 
+[ReactNative_控制显示的字数](https://github.com/Beking0912/web_practice_notes/wiki/ReactNative_%E6%8E%A7%E5%88%B6%E6%98%BE%E7%A4%BA%E7%9A%84%E5%AD%97%E6%95%B0)
+
 # 常见问题
 [常见问题_CSS](https://github.com/Beking0912/react_practive_notes/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98_CSS)
 
