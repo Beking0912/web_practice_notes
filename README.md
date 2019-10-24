@@ -1,6 +1,11 @@
 # web_practice_notes
 📕日常开发笔记_在校实习期间的备忘录_react前端开发
 
+# 排序+插入
+[排序算法+插入算法（参考）](https://github.com/damonare/Sorts)
+
+# 超经典的js题目！！！
+[每周更新一道题](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)
 
 # CSS类
 [CSS_如何实现div不换行](https://github.com/Beking0912/react_practive_notes/wiki/css_%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0div%E4%B8%8D%E6%8D%A2%E8%A1%8C)
@@ -132,7 +137,7 @@
 [手撕代码_能否模拟实现JS的bind方法](https://github.com/Beking0912/web_practice_notes/wiki/%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81_%E8%83%BD%E5%90%A6%E6%A8%A1%E6%8B%9F%E5%AE%9E%E7%8E%B0JS%E7%9A%84bind%E6%96%B9%E6%B3%95)
 
 
-- 前端面试题及答案汇总
+# 前端面试题及答案汇总
   - [第 1 题：http的状态码中，499是什么？如何出现499，如何排查跟解决](https://github.com/airuikun/Weekly-FE-Interview/issues/1)
   - [第 2 题：讲解一下HTTPS的工作原理](https://github.com/airuikun/Weekly-FE-Interview/issues/2)
   - [第 3 题：讲解一下https对称加密和非对称加密](https://github.com/airuikun/Weekly-FE-Interview/issues/3)
