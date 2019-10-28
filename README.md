@@ -50,7 +50,8 @@
 [React_diff算法](https://github.com/Beking0912/react_practive_notes/wiki/React_diff%E7%AE%97%E6%B3%95)
 
 更多内容，去本项目的[wiki](https://github.com/Beking0912/web_practice_notes/wiki)查看～
-
+# ReactNative类
+[ReactNative类_同一行靠左靠右](https://github.com/Beking0912/web_practice_notes/wiki/ReactNative_%E5%AE%9E%E7%8E%B0%E5%90%8C%E4%B8%80%E8%A1%8C%E4%B8%AD%E9%9D%A0%E5%B7%A6%E9%9D%A0%E5%8F%B3)
 # 常见问题
 [常见问题_CSS](https://github.com/Beking0912/react_practive_notes/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98_CSS)
 
